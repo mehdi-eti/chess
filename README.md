@@ -1,1 +1,1 @@
-
+Chess Challenge is a web-based chess game developed using React. The application offers a smooth and interactive chess experience, featuring online matches, move analysis, and a user-friendly design. The main goal of this project is to create a modern platform for chess enthusiasts that both beginners and professionals can enjoy.
